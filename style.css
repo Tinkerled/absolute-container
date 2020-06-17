@@ -1,0 +1,23 @@
+#parent {
+    border-style: solid;
+    clear: both;
+    position: static;
+    display: block;
+    width: 80%;
+}
+
+.green {
+    width: 100%;
+    height: 100px;
+    background-color: green;
+
+}
+
+.red {
+    width: 40%;
+    background: hotpink;
+    position: absolute;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
